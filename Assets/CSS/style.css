@@ -48,3 +48,17 @@ input[type=submit] {
 	margin-top: 30px;
 }
 
+.work h3 {
+  position: absolute;
+  bottom: 10px;
+  width: 248px;
+  margin-bottom: 0;
+  font-weight: 300;
+  line-height: 30px;
+  color: #fff;
+  text-align: center;
+  background: black;
+  background-opacity: 0.5;
+  border-bottom: 0;
+}
+
