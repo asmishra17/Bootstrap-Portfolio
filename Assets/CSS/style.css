@@ -58,7 +58,11 @@ input[type=submit] {
   color: #fff;
   text-align: center;
   background: black;
-  background-opacity: 0.5;
   border-bottom: 0;
+}
+
+.port {
+    height: 200px;
+    width: 300px;
 }
 
